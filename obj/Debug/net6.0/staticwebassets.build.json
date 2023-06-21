@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kdYyJoi5vHRP92bi05GfFZiCN5E23mYgZMtwWK54qD0=",
+  "Source": "Dotnet_REST_API",
+  "BasePath": "_content/Dotnet_REST_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

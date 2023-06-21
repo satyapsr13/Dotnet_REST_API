@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API\\Dotnet_REST_API.csproj": {}
+    "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API\\Dotnet_REST_API.csproj": {
+    "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API\\Dotnet_REST_API.csproj",
+        "projectUniqueName": "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API.csproj",
         "projectName": "Dotnet_REST_API",
-        "projectPath": "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API\\Dotnet_REST_API.csproj",
+        "projectPath": "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API.csproj",
         "packagesPath": "C:\\Users\\satya\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Dotnet\\Personal_Project\\Dotnet_REST_API\\obj\\",
+        "outputPath": "D:\\Projects\\Dotnet\\Personal_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\satya\\AppData\\Roaming\\NuGet\\NuGet.Config",
